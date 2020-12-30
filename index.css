@@ -1,0 +1,22 @@
+header {
+    margin-bottom: 50px;
+}
+
+body, html {
+    font-size: small;
+    font-family: arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.gb {
+    top: 16px;
+    position: relative;
+    font-size: 13px;
+}
